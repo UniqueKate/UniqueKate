@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @UniqueKate
-- 👀 I’m interested in testing, front-end. Generally I'm interested in my first job in IT.
+- 👀 I’m interested in testing. Generally I'm interested in my first job in IT. 
+- I don't have a bigger project yet. 
+- I learn using many free sources available on the Internet. 
+- For now, I treat GitHub as a diary of my learning.
+- 
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dubiel.kat@gmail.com
