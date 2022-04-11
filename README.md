@@ -8,7 +8,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dubiel.kat@gmail.com
 
-<!---
-UniqueKate/UniqueKate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# PORTFOLIO
+[Equivalence classes and boundary value analysis](https://docs.google.com/document/d/1lzBN4Hsr0aBiAxY1ucDZWvqwq50Xe-yzqO1iQP07Qek/edit?usp=sharing)
+
+
+
+
