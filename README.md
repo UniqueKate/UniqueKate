@@ -9,7 +9,19 @@
 - 📫 How to reach me dubiel.kat@gmail.com
 
 # PORTFOLIO
-[Equivalence classes and boundary value analysis](https://docs.google.com/document/d/1lzBN4Hsr0aBiAxY1ucDZWvqwq50Xe-yzqO1iQP07Qek/edit?usp=sharing)
+## Tools
+## Skills
+*SQL
+*DevTools
+*SCRUM
+*Software testing
+*Creating test cases
+*Reporting bugs
+*Creating diagrams and decision tables
+## Certificates
+*[ISTQB]{https://drive.google.com/drive/my-drive?hl=pl)
+## My examples of black box techniques
+*[Equivalence classes and boundary value analysis](https://docs.google.com/document/d/1lzBN4Hsr0aBiAxY1ucDZWvqwq50Xe-yzqO1iQP07Qek/edit?usp=sharing)
 
 
 
