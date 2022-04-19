@@ -1,15 +1,11 @@
-- 👋 Hi, I’m @UniqueKate
-- 👀 I’m interested in testing. Generally I'm interested in my first job in IT. 
-- I don't have a bigger project yet. 
-- I learn using many free sources available on the Internet. 
-- For now, I treat GitHub as a diary of my learning.
-
-- 🌱 I’m currently learning API testing and SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dubiel.kat@gmail.com
-
 # PORTFOLIO
+## About Me
+I am a beginner software tester. This repository is a journal of my learning.
 ## Tools
+* Mantis Bug Tracker (bug reporting and tracking tool)
+* TestLink, TestRail (test case management tools)
+* Asana, Trello (project management tools)
+* Screencast-O-Matic (screen recording tool)
 ## Skills
 * SQL
 * DevTools
