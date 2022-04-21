@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## About Me
-! [ALT] (/C:/Users/kasia/Documents/zdjęcia/male.jpg)
+![Markdown image] (/C:/Users/kasia/Documents/zdjęcia/male.jpg) 
 
 I am a beginner software tester. This repository is a journal of my learning.
 ## Tools
