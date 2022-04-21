@@ -21,6 +21,9 @@ I am a beginner software tester. This repository is a journal of my learning.
 ## My examples of black box techniques
 * [Equivalence classes and boundary value analysis](https://docs.google.com/document/d/1lzBN4Hsr0aBiAxY1ucDZWvqwq50Xe-yzqO1iQP07Qek/edit?usp=sharing)
 
+## SQL tasks
+* [SQL commands] (https://docs.google.com/document/d/1NBUINM707V0oHaVQwde7Ecj37KqBbb5nABOqJoiVb3w/edit?usp=sharing)
+
 
 
 
