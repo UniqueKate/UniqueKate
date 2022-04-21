@@ -1,6 +1,7 @@
 # PORTFOLIO
 ## About Me
-!(C:/Users/kasia/Documents/zdjęcia/male.jpg)
+! [ALT] (/C:/Users/kasia/Documents/zdjęcia/male.jpg)
+
 I am a beginner software tester. This repository is a journal of my learning.
 ## Tools
 * Mantis Bug Tracker (bug reporting and tracking tool)
