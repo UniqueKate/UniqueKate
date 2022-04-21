@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## About Me
-![male](img/male.jpg)
+![](https://github.com/UniqueKate/image.git)
 
 I am a beginner software tester. This repository is a journal of my learning.
 ## Tools
