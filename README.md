@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## About Me
-![](https://github.com/UniqueKate/image/blob/main/male.jpg)
+![](https://github.com/UniqueKate/image/blob/main/5talents.jpg)
 
 I am a beginner software tester. This repository is a journal of my learning.
 ## Tools
