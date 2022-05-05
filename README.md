@@ -3,7 +3,7 @@
 
 I am a beginner software tester. This repository is a journal of my learning.
 
-![](https://github.com/UniqueKate/images/blob/main/5MajorTallents.jpg)
+![](github.com/UniqueKate/images/blob/main/5MajorTallents.jpg)
 
 [CliftonStrenghts](https://drive.google.com/file/d/16zvvxx6THE3C9JzVjQhCij8hzkQRrZYc/view?usp=sharing) 
 
