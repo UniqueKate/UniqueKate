@@ -3,9 +3,9 @@
 
 I am a beginner software tester. This repository is a journal of my learning.
 
-![AboutMe](https://github.com/UniqueKate/images/blob/main/5MajorTalents.jpg)
+[My 5 Talents](https://github.com/UniqueKate/images/blob/main/5MajorTalents.jpg)
 
-[CliftonStrenghts](https://drive.google.com/file/d/16zvvxx6THE3C9JzVjQhCij8hzkQRrZYc/view?usp=sharing) 
+[CliftonStrenghts Certificate](https://drive.google.com/file/d/16zvvxx6THE3C9JzVjQhCij8hzkQRrZYc/view?usp=sharing) 
 
 
 ## Tools
