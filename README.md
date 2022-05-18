@@ -12,10 +12,12 @@ I am a beginner software tester. This repository is a journal of my learning.
 * Mantis Bug Tracker (bug reporting and tracking tool)
 * TestLink, TestRail (test case management tools)
 * Asana, Trello (project management tools)
+* POSTMAN
 * Screencast-O-Matic (screen recording tool)
 ## Skills
 * SQL
 * DevTools
+* REST API testing
 * SCRUM
 * Software testing
 * Creating test cases
