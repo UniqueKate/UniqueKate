@@ -9,7 +9,7 @@ I am a beginner software tester. This repository is a journal of my learning.
 
 
 ## Tools
-* Mantis Bug Tracker (bug reporting and tracking tool)
+* Mantis Bug Tracker, Jira (bug reporting and tracking tool)
 * TestLink, TestRail (test case management tools)
 * Jira, Asana, Trello (project management tools)
 * Postman
