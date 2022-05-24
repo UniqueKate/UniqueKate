@@ -32,7 +32,7 @@ I am a beginner software tester. This repository is a journal of my learning.
 * [Exploratory test](https://docs.google.com/spreadsheets/d/1GK3w8Qfkx6l65LcoIDvrmqZuPgp5jl4Ya3E2aGmaq1U/edit?usp=sharing)
 
 ## POSTMAN API testing 
-* [POSTMAN testing collection](https://github.com/UniqueKate/bookAPIcollection/blob/main/zdtestpol98.postman_test_run.json)
+* [POSTMAN testing collection- bookAPI](https://github.com/UniqueKate/bookAPIcollection/blob/main/zdtestpol98.postman_test_run.json)
 
 ## SQL tasks
 * [SQL commands](https://docs.google.com/document/d/1NBUINM707V0oHaVQwde7Ecj37KqBbb5nABOqJoiVb3w/edit?usp=sharing)
