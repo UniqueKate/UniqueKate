@@ -31,7 +31,7 @@ I am a beginner software tester. This repository is a journal of my learning.
 * [State transition testing](https://drive.google.com/file/d/1Wxqg8qgT2glaJQBN5izbKRViHQD-fdhH/view?usp=sharing), [2](https://drive.google.com/file/d/1jSJOQyomPxGu4EjmD9U-eXTN95LL-qXV/view?usp=sharing),[3](https://drive.google.com/file/d/1kgqYLXsdU3oXBuZU3-z1tNKHZDjN9sq5/view?usp=sharing)
 
 ## POSTMAN API testing 
-*[POSTMAN testing collection](https://github.com/UniqueKate/bookAPIcollection/blob/main/zdtestpol98.postman_test_run.json)
+* [POSTMAN testing collection](https://github.com/UniqueKate/bookAPIcollection/blob/main/zdtestpol98.postman_test_run.json)
 
 ## SQL tasks
 * [SQL commands](https://docs.google.com/document/d/1NBUINM707V0oHaVQwde7Ecj37KqBbb5nABOqJoiVb3w/edit?usp=sharing)
