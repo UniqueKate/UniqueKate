@@ -25,6 +25,7 @@ I am a beginner software tester. This repository is a journal of my learning.
 * Creating diagrams and decision tables
 ## Certificates
 * [ISTQB](https://drive.google.com/file/d/1v_meDghe31XnDqUvZpM-NM_2ztm5H8MU/view?usp=sharing)
+* [Software Tester Certificate] (https://app.diplomasafe.com/pl-PL/diploma/da7a6f8b51075930b23e8604f88594600edc5b59c)
 ## Test design techniques
 * [Equivalence classes and boundary value analysis](https://docs.google.com/document/d/1lzBN4Hsr0aBiAxY1ucDZWvqwq50Xe-yzqO1iQP07Qek/edit?usp=sharing)
 * [Decision table](https://docs.google.com/spreadsheets/d/1kG-FGHy-C9618nT_DatCsRNL5CB28IkQX0S3a16R0WY/edit?usp=sharing)
