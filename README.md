@@ -14,7 +14,9 @@ I am a beginner software tester. This repository is a journal of my learning.
 * Jira, Asana, Trello (project management tools)
 * Postman
 * Screencast-O-Matic (screen recording tool)
+* Sellenium Webdriver
 ## Skills
+* BDD
 * SQL
 * DevTools
 * REST API testing
@@ -23,6 +25,7 @@ I am a beginner software tester. This repository is a journal of my learning.
 * Creating test cases
 * Reporting bugs
 * Creating diagrams and decision tables
+* basics of JavaScript and Java
 ## Certificates
 * [ISTQB](https://drive.google.com/file/d/1v_meDghe31XnDqUvZpM-NM_2ztm5H8MU/view?usp=sharing)
 * [Software Tester Certificate](https://app.diplomasafe.com/pl-PL/diploma/da7a6f8b51075930b23e8604f88594600edc5b59c)
