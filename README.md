@@ -1,12 +1,7 @@
 # PORTFOLIO
 ## About Me
 
-I am a beginner software tester. This repository is a journal of my learning.
-
-[My 5 Talents](https://github.com/UniqueKate/images/blob/main/5MajorTalents.jpg)
-
-[CliftonStrenghts Certificate](https://drive.google.com/file/d/16zvvxx6THE3C9JzVjQhCij8hzkQRrZYc/view?usp=sharing) 
-
+I am a Software Tester. This repository is a journal of my learning
 
 ## Tools
 * Mantis Bug Tracker, Jira (bug reporting and tracking tool)
