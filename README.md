@@ -10,6 +10,9 @@ I am a Software Tester. This repository is a journal of my learning
 * Postman
 * Screencast-O-Matic (screen recording tool)
 * Sellenium Webdriver
+* Pycharm
+* Jenkins
+* Docker
 ## Skills
 * BDD
 * SQL
