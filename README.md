@@ -1,7 +1,12 @@
 # PORTFOLIO
 ## About Me
 
-I am a Software Tester. This repository is a journal of my learning
+I am a Software Tester. Apart from testing, I like to create presentations and conduct workshops
+* [Workshop about testing for developers](https://drive.google.com/drive/u/1/my-drive)
+* [Good practices in my team](https://drive.google.com/drive/u/1/my-drive)
+* [Worskshop about How to write How to Test for developers](https://drive.google.com/drive/u/1/my-drive)(https://drive.google.com/drive/u/1/my-drive)(https://drive.google.com/drive/u/1/my-drive)
+* [How to understand different types of personalities] (https://drive.google.com/drive/u/1/my-drive)
+
 
 ## Tools
 * Mantis Bug Tracker, Jira (bug reporting and tracking tool)
